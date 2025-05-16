@@ -14,3 +14,5 @@
 回看七天央卫数：https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/allcc.xml
 
 回看七天央卫数压缩包：https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/allcc.xml.gz
+
+原网址保留，但不在提供任何节目单下载。
