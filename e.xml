@@ -17142,72 +17142,8 @@
 <channel id="245">
 <display-name lang="zh">安徽农业科教</display-name>
 </channel>
-<programme start="20250518000000 +0800" stop="20250518004700 +0800" channel="245">
-<title lang="zh">精彩呈现</title>
-</programme><programme start="20250518004700 +0800" stop="20250518051000 +0800" channel="245">
-<title lang="zh">节目结束</title>
-</programme><programme start="20250518051000 +0800" stop="20250518052500 +0800" channel="245">
-<title lang="zh">测试图</title>
-</programme><programme start="20250518052500 +0800" stop="20250518053000 +0800" channel="245">
-<title lang="zh">中国梦歌曲振兴乡村唱起来</title>
-</programme><programme start="20250518053000 +0800" stop="20250518061000 +0800" channel="245">
-<title lang="zh">七彩剧场</title>
-</programme><programme start="20250518061000 +0800" stop="20250518064000 +0800" channel="245">
-<title lang="zh">三农时空</title>
-</programme><programme start="20250518064000 +0800" stop="20250518070500 +0800" channel="245">
-<title lang="zh">乡村零距离</title>
-</programme><programme start="20250518070500 +0800" stop="20250518074900 +0800" channel="245">
-<title lang="zh">乡村普法剧场</title>
-</programme><programme start="20250518074900 +0800" stop="20250518082200 +0800" channel="245">
-<title lang="zh">皖美乡村</title>
-</programme><programme start="20250518082200 +0800" stop="20250518085200 +0800" channel="245">
-<title lang="zh">三农时空</title>
-</programme><programme start="20250518085200 +0800" stop="20250518093600 +0800" channel="245">
-<title lang="zh">乡村普法剧场</title>
-</programme><programme start="20250518093600 +0800" stop="20250518094200 +0800" channel="245">
-<title lang="zh">中国梦歌曲振兴乡村唱起来</title>
-</programme><programme start="20250518094200 +0800" stop="20250518101200 +0800" channel="245">
-<title lang="zh">皖美乡村</title>
-</programme><programme start="20250518101200 +0800" stop="20250518110300 +0800" channel="245">
-<title lang="zh">人世间(44)</title>
-</programme><programme start="20250518110300 +0800" stop="20250518114500 +0800" channel="245">
-<title lang="zh">人世间(45)</title>
-</programme><programme start="20250518114500 +0800" stop="20250518123000 +0800" channel="245">
-<title lang="zh">七彩剧场</title>
-</programme><programme start="20250518123000 +0800" stop="20250518130100 +0800" channel="245">
-<title lang="zh">三农时空</title>
-</programme><programme start="20250518130100 +0800" stop="20250518134600 +0800" channel="245">
-<title lang="zh">乡村普法剧场</title>
-</programme><programme start="20250518134600 +0800" stop="20250518141600 +0800" channel="245">
-<title lang="zh">皖美乡村</title>
-</programme><programme start="20250518141600 +0800" stop="20250518150500 +0800" channel="245">
-<title lang="zh">人世间(46)</title>
-</programme><programme start="20250518150500 +0800" stop="20250518155300 +0800" channel="245">
-<title lang="zh">人世间(47)</title>
-</programme><programme start="20250518155300 +0800" stop="20250518163800 +0800" channel="245">
-<title lang="zh">乡村普法剧场</title>
-</programme><programme start="20250518163800 +0800" stop="20250518171000 +0800" channel="245">
-<title lang="zh">乡村零距离</title>
-</programme><programme start="20250518171000 +0800" stop="20250518175000 +0800" channel="245">
-<title lang="zh">七彩剧场</title>
-</programme><programme start="20250518175000 +0800" stop="20250518182000 +0800" channel="245">
-<title lang="zh">皖美乡村</title>
-</programme><programme start="20250518182000 +0800" stop="20250518185000 +0800" channel="245">
-<title lang="zh">乡村零距离</title>
-</programme><programme start="20250518185000 +0800" stop="20250518192000 +0800" channel="245">
-<title lang="zh">三农时空</title>
-</programme><programme start="20250518192000 +0800" stop="20250518201000 +0800" channel="245">
-<title lang="zh">乡村普法剧场</title>
-</programme><programme start="20250518201000 +0800" stop="20250518203800 +0800" channel="245">
-<title lang="zh">魅力安徽</title>
-</programme><programme start="20250518203800 +0800" stop="20250518212600 +0800" channel="245">
-<title lang="zh">亲爱的孩子们(11)</title>
-</programme><programme start="20250518212600 +0800" stop="20250518221700 +0800" channel="245">
-<title lang="zh">亲爱的孩子们(12)</title>
-</programme><programme start="20250518221700 +0800" stop="20250518225400 +0800" channel="245">
-<title lang="zh">三农时空</title>
-</programme><programme start="20250518225400 +0800" stop="20250518235959 +0800" channel="245">
-<title lang="zh">乡村零距离</title>
+<programme start="20250518000000 +0800" stop="20250518235959 +0800" channel="245">
+<title lang="zh">精彩节目</title>
 </programme>
 <channel id="246">
 <display-name lang="zh">安徽公共</display-name>
