@@ -17628,7 +17628,69 @@
 <channel id="263">
 <display-name lang="zh">上海都市</display-name>
 </channel>
-
+<programme start="20250521081300 +0800" stop="20250521083900 +0800" channel="263">
+<title lang="zh">乐活上海</title>
+</programme><programme start="20250521083900 +0800" stop="20250521090500 +0800" channel="263">
+<title lang="zh">人气美食</title>
+</programme><programme start="20250521090500 +0800" stop="20250521095400 +0800" channel="263">
+<title lang="zh">开心全接触</title>
+</programme><programme start="20250521095400 +0800" stop="20250521104400 +0800" channel="263">
+<title lang="zh">纪录片真实影院</title>
+</programme><programme start="20250521104400 +0800" stop="20250521112600 +0800" channel="263">
+<title lang="zh">X诊所</title>
+</programme><programme start="20250521112600 +0800" stop="20250521120800 +0800" channel="263">
+<title lang="zh">新老娘舅</title>
+</programme><programme start="20250521120800 +0800" stop="20250521122400 +0800" channel="263">
+<title lang="zh">妙手仁心</title>
+</programme><programme start="20250521122400 +0800" stop="20250521123900 +0800" channel="263">
+<title lang="zh">都市焕新家</title>
+</programme><programme start="20250521123900 +0800" stop="20250521132500 +0800" channel="263">
+<title lang="zh">人气美食</title>
+</programme><programme start="20250521132500 +0800" stop="20250521135100 +0800" channel="263">
+<title lang="zh">乐活上海</title>
+</programme><programme start="20250521135100 +0800" stop="20250521135700 +0800" channel="263">
+<title lang="zh">都市圈</title>
+</programme><programme start="20250521135700 +0800" stop="20250521144500 +0800" channel="263">
+<title lang="zh">纪录片真实影院</title>
+</programme><programme start="20250521144500 +0800" stop="20250521152800 +0800" channel="263">
+<title lang="zh">X诊所</title>
+</programme><programme start="20250521152800 +0800" stop="20250521161000 +0800" channel="263">
+<title lang="zh">新老娘舅</title>
+</programme><programme start="20250521161000 +0800" stop="20250521163100 +0800" channel="263">
+<title lang="zh">开心全接触</title>
+</programme><programme start="20250521163100 +0800" stop="20250521163700 +0800" channel="263">
+<title lang="zh">都市圈</title>
+</programme><programme start="20250521163700 +0800" stop="20250521170200 +0800" channel="263">
+<title lang="zh">人气美食</title>
+</programme><programme start="20250521170200 +0800" stop="20250521172700 +0800" channel="263">
+<title lang="zh">乐活上海</title>
+</programme><programme start="20250521172700 +0800" stop="20250521175400 +0800" channel="263">
+<title lang="zh">开心全接触</title>
+</programme><programme start="20250521175400 +0800" stop="20250521183800 +0800" channel="263">
+<title lang="zh">新老娘舅</title>
+</programme><programme start="20250521183800 +0800" stop="20250521190800 +0800" channel="263">
+<title lang="zh">人气美食</title>
+</programme><programme start="20250521190800 +0800" stop="20250521193800 +0800" channel="263">
+<title lang="zh">乐活上海</title>
+</programme><programme start="20250521193800 +0800" stop="20250521202100 +0800" channel="263">
+<title lang="zh">X诊所</title>
+</programme><programme start="20250521202100 +0800" stop="20250521202800 +0800" channel="263">
+<title lang="zh">都市圈</title>
+</programme><programme start="20250521202800 +0800" stop="20250521205400 +0800" channel="263">
+<title lang="zh">人气美食</title>
+</programme><programme start="20250521205400 +0800" stop="20250521212100 +0800" channel="263">
+<title lang="zh">乐活上海</title>
+</programme><programme start="20250521212100 +0800" stop="20250521221500 +0800" channel="263">
+<title lang="zh">纪录片真实影院</title>
+</programme><programme start="20250521221500 +0800" stop="20250521222100 +0800" channel="263">
+<title lang="zh">都市圈</title>
+</programme><programme start="20250521222100 +0800" stop="20250521230300 +0800" channel="263">
+<title lang="zh">X诊所</title>
+</programme><programme start="20250521230300 +0800" stop="20250521234400 +0800" channel="263">
+<title lang="zh">新老娘舅</title>
+</programme><programme start="20250521234400 +0800" stop="20250521235959 +0800" channel="263">
+<title lang="zh">人气美食</title>
+</programme>
 <channel id="264">
 <display-name lang="zh">中华特产</display-name>
 </channel>
