@@ -1,6 +1,8 @@
 # Erw节目单
 当天预告，七天回看，每天00:30 10:05 14:50 各更新一次。国内用户推荐使用 vip.erw.cc 服务
 
+注：e.erw.cc 已由Github托管，受Github限制 仅支持http协议（不要写https）。
+
 当天节目单文件：e.xml
 ```
 https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/e.xml
@@ -40,5 +42,3 @@ https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/allcc.xml
 ```
 https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/allcc.xml.gz
 ```
-
-注：e.erw.cc 已由Github托管，受Github限制 仅支持http协议（不要写https）。
