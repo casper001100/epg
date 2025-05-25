@@ -33574,7 +33574,51 @@
 <channel id="491">
 <display-name lang="zh">东森新闻</display-name>
 </channel>
-
+<programme start="20250525000000 +0800" stop="20250525010000 +0800" channel="491">
+<title lang="zh">东森夜线新闻</title>
+</programme><programme start="20250525010000 +0800" stop="20250525020000 +0800" channel="491">
+<title lang="zh">东森晚间新闻</title>
+</programme><programme start="20250525020000 +0800" stop="20250525030000 +0800" channel="491">
+<title lang="zh">东森夜线新闻</title>
+</programme><programme start="20250525030000 +0800" stop="20250525040000 +0800" channel="491">
+<title lang="zh">东森世界日报</title>
+</programme><programme start="20250525040000 +0800" stop="20250525050000 +0800" channel="491">
+<title lang="zh">东森世界日报</title>
+</programme><programme start="20250525050000 +0800" stop="20250525060000 +0800" channel="491">
+<title lang="zh">东森夜线新闻</title>
+</programme><programme start="20250525060000 +0800" stop="20250525070000 +0800" channel="491">
+<title lang="zh">Hello台湾</title>
+</programme><programme start="20250525070000 +0800" stop="20250525090000 +0800" channel="491">
+<title lang="zh">Hello台湾</title>
+</programme><programme start="20250525090000 +0800" stop="20250525100000 +0800" channel="491">
+<title lang="zh">东森新闻</title>
+</programme><programme start="20250525100000 +0800" stop="20250525110000 +0800" channel="491">
+<title lang="zh">东森午安新闻</title>
+</programme><programme start="20250525110000 +0800" stop="20250525130000 +0800" channel="491">
+<title lang="zh">东森午安新闻</title>
+</programme><programme start="20250525130000 +0800" stop="20250525140000 +0800" channel="491">
+<title lang="zh">东森午安新闻</title>
+</programme><programme start="20250525140000 +0800" stop="20250525150000 +0800" channel="491">
+<title lang="zh">东森午安新闻</title>
+</programme><programme start="20250525150000 +0800" stop="20250525153000 +0800" channel="491">
+<title lang="zh">海峡拚经济</title>
+</programme><programme start="20250525153000 +0800" stop="20250525160000 +0800" channel="491">
+<title lang="zh">聚焦新视界</title>
+</programme><programme start="20250525160000 +0800" stop="20250525170000 +0800" channel="491">
+<title lang="zh">东森晚间新闻</title>
+</programme><programme start="20250525170000 +0800" stop="20250525200000 +0800" channel="491">
+<title lang="zh">东森晚间新闻</title>
+</programme><programme start="20250525200000 +0800" stop="20250525210000 +0800" channel="491">
+<title lang="zh">东森世界日报</title>
+</programme><programme start="20250525210000 +0800" stop="20250525220000 +0800" channel="491">
+<title lang="zh">东森世界日报</title>
+</programme><programme start="20250525220000 +0800" stop="20250525223000 +0800" channel="491">
+<title lang="zh">东森夜线新闻</title>
+</programme><programme start="20250525223000 +0800" stop="20250525230000 +0800" channel="491">
+<title lang="zh">东森夜线新闻</title>
+</programme><programme start="20250525230000 +0800" stop="20250525235959 +0800" channel="491">
+<title lang="zh">台湾启示录</title>
+</programme>
 <channel id="492">
 <display-name lang="zh">民视新闻台</display-name>
 </channel>
@@ -34468,15 +34512,167 @@
 <channel id="513">
 <display-name lang="zh">HBO溫馨家庭</display-name>
 </channel>
-
+<programme start="20250525000100 +0800" stop="20250525001300 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525001300 +0800" stop="20250525002500 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525002500 +0800" stop="20250525003600 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525003600 +0800" stop="20250525004700 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525004700 +0800" stop="20250525005900 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525005900 +0800" stop="20250525011100 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525011100 +0800" stop="20250525013000 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525013000 +0800" stop="20250525014200 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525014200 +0800" stop="20250525020000 +0800" channel="513">
+<title lang="zh">爱烦多王子冒险中</title>
+</programme><programme start="20250525020000 +0800" stop="20250525024500 +0800" channel="513">
+<title lang="zh">重访时空怪客</title>
+</programme><programme start="20250525024500 +0800" stop="20250525032500 +0800" channel="513">
+<title lang="zh">重访时空怪客</title>
+</programme><programme start="20250525032500 +0800" stop="20250525041000 +0800" channel="513">
+<title lang="zh">重访时空怪客</title>
+</programme><programme start="20250525041000 +0800" stop="20250525054000 +0800" channel="513">
+<title lang="zh">挺身而出</title>
+</programme><programme start="20250525054000 +0800" stop="20250525061000 +0800" channel="513">
+<title lang="zh">好莱坞好好看</title>
+</programme><programme start="20250525061000 +0800" stop="20250525072000 +0800" channel="513">
+<title lang="zh">天兵公园电影版</title>
+</programme><programme start="20250525072000 +0800" stop="20250525074100 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525074100 +0800" stop="20250525080200 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525080200 +0800" stop="20250525082300 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525082300 +0800" stop="20250525084400 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525084400 +0800" stop="20250525090500 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525090500 +0800" stop="20250525092600 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525092600 +0800" stop="20250525094700 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525094700 +0800" stop="20250525100800 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525100800 +0800" stop="20250525102900 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525102900 +0800" stop="20250525105000 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525105000 +0800" stop="20250525111100 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525111100 +0800" stop="20250525113200 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525113200 +0800" stop="20250525115300 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525115300 +0800" stop="20250525121400 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525121400 +0800" stop="20250525125000 +0800" channel="513">
+<title lang="zh">叔比狗谁来当家</title>
+</programme><programme start="20250525125000 +0800" stop="20250525142000 +0800" channel="513">
+<title lang="zh">史瑞克三世</title>
+</programme><programme start="20250525142000 +0800" stop="20250525155500 +0800" channel="513">
+<title lang="zh">狗狗史酷比</title>
+</programme><programme start="20250525155500 +0800" stop="20250525172000 +0800" channel="513">
+<title lang="zh">汪汪队立大功超级大电影</title>
+</programme><programme start="20250525172000 +0800" stop="20250525190000 +0800" channel="513">
+<title lang="zh">寻找新乐园</title>
+</programme><programme start="20250525190000 +0800" stop="20250525201500 +0800" channel="513">
+<title lang="zh">乐高蝙蝠侠电影</title>
+</programme><programme start="20250525201500 +0800" stop="20250525215500 +0800" channel="513">
+<title lang="zh">神偷奶爸2</title>
+</programme><programme start="20250525215500 +0800" stop="20250525220600 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525220600 +0800" stop="20250525221700 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525221700 +0800" stop="20250525222800 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525222800 +0800" stop="20250525223900 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525223900 +0800" stop="20250525225000 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525225000 +0800" stop="20250525230100 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525230100 +0800" stop="20250525231200 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525231200 +0800" stop="20250525232300 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525232300 +0800" stop="20250525233400 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525233400 +0800" stop="20250525234500 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525234500 +0800" stop="20250525235600 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme><programme start="20250525235600 +0800" stop="20250525235959 +0800" channel="513">
+<title lang="zh">BEN10再显神威</title>
+</programme>
 <channel id="514">
 <display-name lang="zh">HBO强档巨献</display-name>
 </channel>
-
+<programme start="20250525005000 +0800" stop="20250525024000 +0800" channel="514">
+<title lang="zh">超危险警探</title>
+</programme><programme start="20250525024000 +0800" stop="20250525042500 +0800" channel="514">
+<title lang="zh">同床异梦</title>
+</programme><programme start="20250525042500 +0800" stop="20250525063000 +0800" channel="514">
+<title lang="zh">绝地营救</title>
+</programme><programme start="20250525063000 +0800" stop="20250525082500 +0800" channel="514">
+<title lang="zh">绝配冤家</title>
+</programme><programme start="20250525082500 +0800" stop="20250525085500 +0800" channel="514">
+<title lang="zh">好莱坞好好看</title>
+</programme><programme start="20250525085500 +0800" stop="20250525104500 +0800" channel="514">
+<title lang="zh">超危险警探</title>
+</programme><programme start="20250525104500 +0800" stop="20250525130000 +0800" channel="514">
+<title lang="zh">骇速快手</title>
+</programme><programme start="20250525130000 +0800" stop="20250525151500 +0800" channel="514">
+<title lang="zh">美丽境界</title>
+</programme><programme start="20250525151500 +0800" stop="20250525165500 +0800" channel="514">
+<title lang="zh">小脚怪</title>
+</programme><programme start="20250525165500 +0800" stop="20250525190000 +0800" channel="514">
+<title lang="zh">口是心非</title>
+</programme><programme start="20250525190000 +0800" stop="20250525205000 +0800" channel="514">
+<title lang="zh">绝配冤家</title>
+</programme><programme start="20250525205000 +0800" stop="20250525230000 +0800" channel="514">
+<title lang="zh">骇速快手</title>
+</programme><programme start="20250525230000 +0800" stop="20250525235959 +0800" channel="514">
+<title lang="zh">小丑双重疯狂</title>
+</programme>
 <channel id="515">
 <display-name lang="zh">HBO原创巨献</display-name>
 </channel>
-
+<programme start="20250525000000 +0800" stop="20250525013000 +0800" channel="515">
+<title lang="zh">大卫荷姆斯大难不死的男孩</title>
+</programme><programme start="20250525013000 +0800" stop="20250525034500 +0800" channel="515">
+<title lang="zh">雨人</title>
+</programme><programme start="20250525034500 +0800" stop="20250525053000 +0800" channel="515">
+<title lang="zh">战略机动大作战</title>
+</programme><programme start="20250525053000 +0800" stop="20250525071000 +0800" channel="515">
+<title lang="zh">泳池管理员</title>
+</programme><programme start="20250525071000 +0800" stop="20250525083500 +0800" channel="515">
+<title lang="zh">黑白疆界</title>
+</programme><programme start="20250525083500 +0800" stop="20250525111500 +0800" channel="515">
+<title lang="zh">沙丘第二部</title>
+</programme><programme start="20250525111500 +0800" stop="20250525125500 +0800" channel="515">
+<title lang="zh">人造意识</title>
+</programme><programme start="20250525125500 +0800" stop="20250525142500 +0800" channel="515">
+<title lang="zh">大卫荷姆斯大难不死的男孩</title>
+</programme><programme start="20250525142500 +0800" stop="20250525160500 +0800" channel="515">
+<title lang="zh">泳池管理员</title>
+</programme><programme start="20250525160500 +0800" stop="20250525163500 +0800" channel="515">
+<title lang="zh">好莱坞好好看</title>
+</programme><programme start="20250525163500 +0800" stop="20250525181500 +0800" channel="515">
+<title lang="zh">集结风暴</title>
+</programme><programme start="20250525181500 +0800" stop="20250525195000 +0800" channel="515">
+<title lang="zh">魔鬼潜舰</title>
+</programme><programme start="20250525195000 +0800" stop="20250525220000 +0800" channel="515">
+<title lang="zh">雨人</title>
+</programme><programme start="20250525220000 +0800" stop="20250525224500 +0800" channel="515">
+<title lang="zh">殒落之星尼克与亚伦卡特</title>
+</programme><programme start="20250525224500 +0800" stop="20250525235959 +0800" channel="515">
+<title lang="zh">拿破崙炸药</title>
+</programme>
 <channel id="516">
 <display-name lang="zh">CINEMAX热门影院</display-name>
 </channel>
