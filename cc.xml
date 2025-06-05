@@ -647,7 +647,7 @@
 <display-name lang="zh">CCTV9</display-name>
 </channel>
 <programme start="20250605000000 +0800" stop="20250605000300 +0800" channel="10">
-<title lang="zh">自然协奏曲(2)</title>
+<title lang="zh">开始</title>
 </programme><programme start="20250605000300 +0800" stop="20250605005900 +0800" channel="10">
 <title lang="zh">大太平洋(3)</title>
 </programme><programme start="20250605005900 +0800" stop="20250605015500 +0800" channel="10">
@@ -3600,15 +3600,15 @@
 </channel>
 <programme start="20250605000000 +0800" stop="20250605000300 +0800" channel="89">
 <title lang="zh">精彩呈现</title>
-</programme><programme start="20250605000300 +0800" stop="20250605003000 +0800" channel="89">
+</programme><programme start="20250605000300 +0800" stop="20250605003700 +0800" channel="89">
 <title lang="zh">都挺好24</title>
-</programme><programme start="20250605003000 +0800" stop="20250605010000 +0800" channel="89">
+</programme><programme start="20250605003700 +0800" stop="20250605011600 +0800" channel="89">
 <title lang="zh">殊死七日29</title>
-</programme><programme start="20250605010000 +0800" stop="20250605012700 +0800" channel="89">
+</programme><programme start="20250605011600 +0800" stop="20250605015600 +0800" channel="89">
 <title lang="zh">殊死七日30</title>
-</programme><programme start="20250605012700 +0800" stop="20250605021800 +0800" channel="89">
+</programme><programme start="20250605015600 +0800" stop="20250605024600 +0800" channel="89">
 <title lang="zh">行进中国</title>
-</programme><programme start="20250605021800 +0800" stop="20250605030800 +0800" channel="89">
+</programme><programme start="20250605024600 +0800" stop="20250605030800 +0800" channel="89">
 <title lang="zh">行进中国</title>
 </programme><programme start="20250605030800 +0800" stop="20250605044000 +0800" channel="89">
 <title lang="zh">行进中国</title>
@@ -4736,10 +4736,12 @@
 </channel>
 <programme start="20250605000000 +0800" stop="20250605001700 +0800" channel="101">
 <title lang="zh">精彩呈现</title>
-</programme><programme start="20250605001700 +0800" stop="20250605005300 +0800" channel="101">
+</programme><programme start="20250605001700 +0800" stop="20250605003500 +0800" channel="101">
 <title lang="zh">锻刀之绝地重生</title>
+</programme><programme start="20250605003500 +0800" stop="20250605005300 +0800" channel="101">
+<title lang="zh">包青天之七侠五义</title>
 </programme><programme start="20250605005300 +0800" stop="20250605013000 +0800" channel="101">
-<title lang="zh">锻刀之绝地重生</title>
+<title lang="zh">包青天之七侠五义</title>
 </programme><programme start="20250605013000 +0800" stop="20250605020000 +0800" channel="101">
 <title lang="zh">纪录片</title>
 </programme><programme start="20250605020000 +0800" stop="20250605032000 +0800" channel="101">
@@ -5472,12 +5474,14 @@
 <channel id="109">
 <display-name lang="zh">山西卫视</display-name>
 </channel>
-<programme start="20250605000000 +0800" stop="20250605010000 +0800" channel="109">
-<title lang="zh">战火兵魂</title>
-</programme><programme start="20250605010000 +0800" stop="20250605040000 +0800" channel="109">
+<programme start="20250605000000 +0800" stop="20250605005600 +0800" channel="109">
+<title lang="zh">开始</title>
+</programme><programme start="20250605005600 +0800" stop="20250605031800 +0800" channel="109">
 <title lang="zh">汉武大帝</title>
+</programme><programme start="20250605031800 +0800" stop="20250605040000 +0800" channel="109">
+<title lang="zh">百年巨匠Ⅱ</title>
 </programme><programme start="20250605040000 +0800" stop="20250605042000 +0800" channel="109">
-<title lang="zh">汉武大帝</title>
+<title lang="zh">百年巨匠Ⅱ</title>
 </programme><programme start="20250605042000 +0800" stop="20250605062000 +0800" channel="109">
 <title lang="zh">战神</title>
 </programme><programme start="20250605062000 +0800" stop="20250605065000 +0800" channel="109">
