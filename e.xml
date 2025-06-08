@@ -16803,11 +16803,93 @@
 <channel id="243">
 <display-name lang="zh">安徽经济生活</display-name>
 </channel>
-
+<programme start="20250609003100 +0800" stop="20250609011700 +0800" channel="243">
+<title lang="zh">帮女郎帮你忙</title>
+</programme><programme start="20250609011700 +0800" stop="20250609023600 +0800" channel="243">
+<title lang="zh">第一时间</title>
+</programme><programme start="20250609023600 +0800" stop="20250609024100 +0800" channel="243">
+<title lang="zh">晚间看天气</title>
+</programme><programme start="20250609024100 +0800" stop="20250609054700 +0800" channel="243">
+<title lang="zh">节目结束</title>
+</programme><programme start="20250609054700 +0800" stop="20250609062700 +0800" channel="243">
+<title lang="zh">帮女郎帮你忙</title>
+</programme><programme start="20250609062700 +0800" stop="20250609074200 +0800" channel="243">
+<title lang="zh">第一时间</title>
+</programme><programme start="20250609074200 +0800" stop="20250609080500 +0800" channel="243">
+<title lang="zh">专题</title>
+</programme><programme start="20250609080500 +0800" stop="20250609113500 +0800" channel="243">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609113500 +0800" stop="20250609114500 +0800" channel="243">
+<title lang="zh">专题</title>
+</programme><programme start="20250609114500 +0800" stop="20250609123000 +0800" channel="243">
+<title lang="zh">经视1时间</title>
+</programme><programme start="20250609123000 +0800" stop="20250609130000 +0800" channel="243">
+<title lang="zh">经视说法</title>
+</programme><programme start="20250609130000 +0800" stop="20250609132500 +0800" channel="243">
+<title lang="zh">团购节目</title>
+</programme><programme start="20250609132500 +0800" stop="20250609162500 +0800" channel="243">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609162500 +0800" stop="20250609170000 +0800" channel="243">
+<title lang="zh">团购节目</title>
+</programme><programme start="20250609170000 +0800" stop="20250609173500 +0800" channel="243">
+<title lang="zh">健康行天下</title>
+</programme><programme start="20250609173500 +0800" stop="20250609182000 +0800" channel="243">
+<title lang="zh">帮女郎帮你忙</title>
+</programme><programme start="20250609182000 +0800" stop="20250609194700 +0800" channel="243">
+<title lang="zh">第一时间</title>
+</programme><programme start="20250609194700 +0800" stop="20250609222500 +0800" channel="243">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609222500 +0800" stop="20250609230500 +0800" channel="243">
+<title lang="zh">新闻延长线</title>
+</programme><programme start="20250609230500 +0800" stop="20250609234000 +0800" channel="243">
+<title lang="zh">经视说法</title>
+</programme><programme start="20250609234000 +0800" stop="20250609235900 +0800" channel="243">
+<title lang="zh">帮女郎帮你忙</title>
+</programme><programme start="20250609235900 +0800" stop="20250609235959 +0800" channel="243">
+<title lang="zh">结束</title>
+</programme>
 <channel id="244">
 <display-name lang="zh">安徽影视</display-name>
 </channel>
-
+<programme start="20250609000700 +0800" stop="20250609004700 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609004700 +0800" stop="20250609052500 +0800" channel="244">
+<title lang="zh">静屏</title>
+</programme><programme start="20250609052500 +0800" stop="20250609054900 +0800" channel="244">
+<title lang="zh">电视台无节目</title>
+</programme><programme start="20250609054900 +0800" stop="20250609090300 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609090300 +0800" stop="20250609101000 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609101000 +0800" stop="20250609154600 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609154600 +0800" stop="20250609155600 +0800" channel="244">
+<title lang="zh">我爱饭米粒</title>
+</programme><programme start="20250609155600 +0800" stop="20250609163600 +0800" channel="244">
+<title lang="zh">老有所医</title>
+</programme><programme start="20250609163600 +0800" stop="20250609170000 +0800" channel="244">
+<title lang="zh">我爱饭米粒</title>
+</programme><programme start="20250609170000 +0800" stop="20250609172700 +0800" channel="244">
+<title lang="zh">我爱饭米粒</title>
+</programme><programme start="20250609172700 +0800" stop="20250609180100 +0800" channel="244">
+<title lang="zh">影视第1线</title>
+</programme><programme start="20250609180100 +0800" stop="20250609184100 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609184100 +0800" stop="20250609184500 +0800" channel="244">
+<title lang="zh">天气预报</title>
+</programme><programme start="20250609184500 +0800" stop="20250609192800 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609192800 +0800" stop="20250609201700 +0800" channel="244">
+<title lang="zh">风云大剧院</title>
+</programme><programme start="20250609201700 +0800" stop="20250609210600 +0800" channel="244">
+<title lang="zh">风云大剧院</title>
+</programme><programme start="20250609210600 +0800" stop="20250609223000 +0800" channel="244">
+<title lang="zh">风云大剧院</title>
+</programme><programme start="20250609223000 +0800" stop="20250609231400 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme><programme start="20250609231400 +0800" stop="20250609235959 +0800" channel="244">
+<title lang="zh">剧场</title>
+</programme>
 <channel id="245">
 <display-name lang="zh">安徽农业科教</display-name>
 </channel>
@@ -16939,7 +17021,51 @@
 <channel id="247">
 <display-name lang="zh">安徽综艺体育</display-name>
 </channel>
-
+<programme start="20250609000000 +0800" stop="20250609054500 +0800" channel="247">
+<title lang="zh">节目结束</title>
+</programme><programme start="20250609054500 +0800" stop="20250609061800 +0800" channel="247">
+<title lang="zh">测试图</title>
+</programme><programme start="20250609061800 +0800" stop="20250609071000 +0800" channel="247">
+<title lang="zh">相约花戏楼</title>
+</programme><programme start="20250609071000 +0800" stop="20250609084200 +0800" channel="247">
+<title lang="zh">家有好大事</title>
+</programme><programme start="20250609084200 +0800" stop="20250609104500 +0800" channel="247">
+<title lang="zh">来吧掼军</title>
+</programme><programme start="20250609104500 +0800" stop="20250609123000 +0800" channel="247">
+<title lang="zh">快乐无敌大PK</title>
+</programme><programme start="20250609123000 +0800" stop="20250609124300 +0800" channel="247">
+<title lang="zh">我爱诗书画</title>
+</programme><programme start="20250609124300 +0800" stop="20250609132800 +0800" channel="247">
+<title lang="zh">动画片</title>
+</programme><programme start="20250609132800 +0800" stop="20250609143300 +0800" channel="247">
+<title lang="zh">家有好大事</title>
+</programme><programme start="20250609143300 +0800" stop="20250609164000 +0800" channel="247">
+<title lang="zh">快乐无敌大PK</title>
+</programme><programme start="20250609164000 +0800" stop="20250609171000 +0800" channel="247">
+<title lang="zh">中国原产递</title>
+</programme><programme start="20250609171000 +0800" stop="20250609175000 +0800" channel="247">
+<title lang="zh">小孩很忙</title>
+</programme><programme start="20250609175000 +0800" stop="20250609182000 +0800" channel="247">
+<title lang="zh">美食来了</title>
+</programme><programme start="20250609182000 +0800" stop="20250609191000 +0800" channel="247">
+<title lang="zh">家有好大事</title>
+</programme><programme start="20250609191000 +0800" stop="20250609195700 +0800" channel="247">
+<title lang="zh">全民大舞台</title>
+</programme><programme start="20250609195700 +0800" stop="20250609200000 +0800" channel="247">
+<title lang="zh">天气预报</title>
+</programme><programme start="20250609200000 +0800" stop="20250609211000 +0800" channel="247">
+<title lang="zh">来吧掼军</title>
+</programme><programme start="20250609211000 +0800" stop="20250609221700 +0800" channel="247">
+<title lang="zh">快乐无敌大PK</title>
+</programme><programme start="20250609221700 +0800" stop="20250609224500 +0800" channel="247">
+<title lang="zh">美食来了</title>
+</programme><programme start="20250609224500 +0800" stop="20250609231500 +0800" channel="247">
+<title lang="zh">中国原产递</title>
+</programme><programme start="20250609231500 +0800" stop="20250609235900 +0800" channel="247">
+<title lang="zh">全民大舞台</title>
+</programme><programme start="20250609235900 +0800" stop="20250609235959 +0800" channel="247">
+<title lang="zh">节目结束</title>
+</programme>
 <channel id="248">
 <display-name lang="zh">安徽国际</display-name>
 </channel>
