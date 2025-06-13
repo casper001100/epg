@@ -16997,7 +16997,51 @@
 <channel id="247">
 <display-name lang="zh">安徽综艺体育</display-name>
 </channel>
-
+<programme start="20250614000000 +0800" stop="20250614054500 +0800" channel="247">
+<title lang="zh">节目结束</title>
+</programme><programme start="20250614054500 +0800" stop="20250614061800 +0800" channel="247">
+<title lang="zh">测试图</title>
+</programme><programme start="20250614061800 +0800" stop="20250614071000 +0800" channel="247">
+<title lang="zh">相约花戏楼</title>
+</programme><programme start="20250614071000 +0800" stop="20250614084200 +0800" channel="247">
+<title lang="zh">家有好大事</title>
+</programme><programme start="20250614084200 +0800" stop="20250614104500 +0800" channel="247">
+<title lang="zh">来吧掼军</title>
+</programme><programme start="20250614104500 +0800" stop="20250614123000 +0800" channel="247">
+<title lang="zh">快乐无敌大PK</title>
+</programme><programme start="20250614123000 +0800" stop="20250614124300 +0800" channel="247">
+<title lang="zh">我爱诗书画</title>
+</programme><programme start="20250614124300 +0800" stop="20250614132800 +0800" channel="247">
+<title lang="zh">动画片</title>
+</programme><programme start="20250614132800 +0800" stop="20250614143300 +0800" channel="247">
+<title lang="zh">家有好大事</title>
+</programme><programme start="20250614143300 +0800" stop="20250614164000 +0800" channel="247">
+<title lang="zh">快乐无敌大PK</title>
+</programme><programme start="20250614164000 +0800" stop="20250614171000 +0800" channel="247">
+<title lang="zh">中国原产递</title>
+</programme><programme start="20250614171000 +0800" stop="20250614175000 +0800" channel="247">
+<title lang="zh">小孩很忙</title>
+</programme><programme start="20250614175000 +0800" stop="20250614182000 +0800" channel="247">
+<title lang="zh">美食来了</title>
+</programme><programme start="20250614182000 +0800" stop="20250614191000 +0800" channel="247">
+<title lang="zh">家有好大事</title>
+</programme><programme start="20250614191000 +0800" stop="20250614195700 +0800" channel="247">
+<title lang="zh">全民大舞台</title>
+</programme><programme start="20250614195700 +0800" stop="20250614200000 +0800" channel="247">
+<title lang="zh">天气预报</title>
+</programme><programme start="20250614200000 +0800" stop="20250614211000 +0800" channel="247">
+<title lang="zh">来吧掼军</title>
+</programme><programme start="20250614211000 +0800" stop="20250614221700 +0800" channel="247">
+<title lang="zh">快乐无敌大PK</title>
+</programme><programme start="20250614221700 +0800" stop="20250614224500 +0800" channel="247">
+<title lang="zh">美食来了</title>
+</programme><programme start="20250614224500 +0800" stop="20250614231500 +0800" channel="247">
+<title lang="zh">中国原产递</title>
+</programme><programme start="20250614231500 +0800" stop="20250614235900 +0800" channel="247">
+<title lang="zh">全民大舞台</title>
+</programme><programme start="20250614235900 +0800" stop="20250614235959 +0800" channel="247">
+<title lang="zh">节目结束</title>
+</programme>
 <channel id="249">
 <display-name lang="zh">江西新闻</display-name>
 </channel>
